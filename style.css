@@ -1,0 +1,15 @@
+div{
+    background-color: lightgreen;
+    max-width:  500px;
+    height: 410px;
+    margin: 200px auto;
+    text-align: center;
+    border: 5px solid black;
+}
+button{
+    margin-top:5px ;
+    padding: 0% 10px;
+}
+input[type=number]{
+    padding: 0px 30px;
+}
